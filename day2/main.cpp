@@ -7,7 +7,6 @@
 #include <queue>
 #include <unordered_map>
 #include <stack>
-#include <algorithm>
 
 // create a helper function to check whether a function is safe or not
 bool isSafe(std::vector<int>& report) {
